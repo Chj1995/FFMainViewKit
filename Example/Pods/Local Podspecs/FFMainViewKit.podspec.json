@@ -1,0 +1,22 @@
+{
+  "name": "FFMainViewKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFMainViewKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chj1995/FFMainViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chj1995": "chenhj@actumtech.com"
+  },
+  "source": {
+    "git": "https://github.com/Chj1995/FFMainViewKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFMainViewKit/Classes/**/*"
+}
